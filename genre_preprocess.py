@@ -1,4 +1,3 @@
-sum = 0
 dict_result = {}
 with open('genre_obs.txt', 'r') as result:
     for line1 in result.readlines():
